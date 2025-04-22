@@ -1,0 +1,9 @@
+swagger/index.html
+/swagger/index.html
+/swagger/v1/swagger.json
+swagger/v1/swagger.json
+swagger/v1/swagger.json/
+api/swagger/index.html
+/api/swagger/index.html
+/swagger-ui/index.html
+swagger-ui/index.html
